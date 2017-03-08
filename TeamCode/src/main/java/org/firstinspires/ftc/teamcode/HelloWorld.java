@@ -5,6 +5,4 @@ package org.firstinspires.ftc.teamcode;
  */
 
 public class HelloWorld {
-
-    //Test Test 12 12
 }
